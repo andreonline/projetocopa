@@ -1,0 +1,34 @@
+Tecnologias
+
+- PHP
+- HTML
+- CSS
+- jQuery
+- JavaScript
+- MySql
+- Zend Framework
+
+
+Tabelas no banco de dados
+Usuários
+	qtd pontos;
+	nome;
+	senha
+	email
+
+Jogos
+Aposta
+
+Principais requisitos do sistema
+Manter usuário - ADM e Usuario
+Manter partida, times, jogos - ADM
+Ao se cadastrar, o usuário deverá ganhar uma quantidade miníma de pontos. 
+O sistema deverá oferecer a opção para o usuário realizar uma aposta e cancelar a mesma.
+Na página inicial do sistema de ser mostrado as partidas para determinada data.
+O sistema deve apresentar tabelas de ranking dos usuários.
+Um sistema de comentários deverá ser construindo no sistema.
+
+Prioridades
+Cadastro de usuário
+Funcionalidade para fazer apostas
+Tabelas usuário, jogos, time e apostas.
