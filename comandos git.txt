@@ -1,0 +1,18 @@
+comandos
+
+git config --global user.name		configuração de informações pessoais
+git config --global user.email		configuração de informações pessoais
+git init				cria um repositório no diretório atual
+git add					adiciona um arquivo do diretório ao repositório
+git status				mostra o status do repositório
+git commit -m				realiza um commit no repositório com uma mensagem(-m)
+git clone (url)				clona um projeto do github para o repositório local
+git log					mostra todas os commits realizados no repositório
+git pull				atualiza o repositório local, trazendo as modificações presentes no github    (diff)
+git push				envia as alterações realizadas do repositório local para o projeto no github (só pode ser realizado após um git pull)
+
+github (no site do github)
+
+fork					cria um cópia do repositório de alguem adicionando-o ao nosso repositório no github.
+
+pull request				após o fork e depois de realizar algumas alterações no projeto podemos solicitar ao dono do repositório que confirme as alterações fazendo um pull request 
