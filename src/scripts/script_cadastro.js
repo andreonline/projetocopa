@@ -1,6 +1,6 @@
 function validarForm(){
-	var error = false;
-	alert("Funfou");
+	//var error = false;
+	alert($("#nome").val());
 	if(error){
 		
 	}
