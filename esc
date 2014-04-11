@@ -1,0 +1,93 @@
+[33mcommit fbf7e27522ba217cadf8919635ffea1f48326a47[m
+Author: mixplick <mixplick87@gmail.com>
+Date:   Thu Apr 10 23:01:03 2014 -0300
+
+    zend2
+
+[33mcommit 4b2b8d6e43ac16b05dec727c9b7c1d5b760f5b7b[m
+Author: André Santos <andreluis.online@hotmail.com>
+Date:   Thu Apr 10 22:50:54 2014 -0300
+
+    alguns arquivos
+
+[33mcommit b02f54c918260412b15577b10e08e5b31168a237[m
+Author: mixplick <mixplick87@gmail.com>
+Date:   Thu Apr 10 22:42:37 2014 -0300
+
+    teste01
+
+[33mcommit 9a3356e75d17730500b6d9b171a7ca983416fca6[m
+Author: André Santos <andreluis.online@hotmail.com>
+Date:   Thu Mar 20 02:24:18 2014 -0300
+
+    adicionar campo de email na tabela de usuario
+
+[33mcommit f37ed36aa72e11e67e769fbcab2008b12b0b4845[m
+Author: André Santos <andreluis.online@hotmail.com>
+Date:   Thu Mar 20 02:03:59 2014 -0300
+
+    instalar jquery, criar pagina de cadastro e script
+
+[33mcommit e86d1cca1553cc69177d4b0846c9a9b073cd3180[m
+Merge: 8b9211a 23a61a2
+Author: André Santos <andreluis.online@hotmail.com>
+Date:   Tue Mar 18 10:47:47 2014 -0300
+
+    Merge branch 'master' of https://github.com/andreonline/projetocopa
+
+[33mcommit 8b9211ace8ed8143547095492f9ed8611e4a9231[m
+Author: André Santos <andreluis.online@hotmail.com>
+Date:   Tue Mar 18 10:32:02 2014 -0300
+
+    Adicionar arquivo de conxao com o banco
+
+[33mcommit 23a61a24b6866c2e3a9c42d0169da478725b25e5[m
+Merge: 785d50a b660e9d
+Author: André Santos <andreluis.online@hotmail.com>
+Date:   Sun Mar 9 19:59:19 2014 -0300
+
+    Merge pull request #1 from pabloads/master
+    
+    testando
+
+[33mcommit b660e9dd6f3f3899a5d8570fec648677dccffcc0[m
+Author: pablogit <pabloferreirarocha@hotmail.com>
+Date:   Sun Mar 9 19:48:12 2014 -0300
+
+    testando
+
+[33mcommit 785d50ae920365b5cb59620f49f35acb6e66c96f[m
+Author: André Santos <andreluis.online@hotmail.com>
+Date:   Sun Mar 9 18:00:14 2014 -0300
+
+    adicionar campo de time na tabela de partida
+
+[33mcommit fd09663b02120eaa0b0fd89237addbbaf8147fdd[m
+Author: André Santos <andreluis.online@hotmail.com>
+Date:   Sat Mar 8 18:59:20 2014 -0300
+
+    script banco
+
+[33mcommit 5b1a216ab8328e29e7fd6c868e168bdc76e48614[m
+Author: André Santos <andreluis.online@hotmail.com>
+Date:   Sat Mar 8 18:56:47 2014 -0300
+
+    Pasta de scripts banco e arquivo objetivos
+
+[33mcommit 1f974e80441a1261bdfd5a29df202c54c1dde3d4[m
+Author: André Santos <andreluis.online@hotmail.com>
+Date:   Sat Mar 8 18:39:38 2014 -0300
+
+    Lista de comandos git
+
+[33mcommit a4d7791ef61b99bd77488fdc0fe92df04b8d4af6[m
+Author: André Santos <andreluis.online@hotmail.com>
+Date:   Sat Mar 8 18:35:14 2014 -0300
+
+    Deletando arquivo txt
+
+[33mcommit 44882a121e953d79cb168e7990bc7b85f5ffc597[m
+Author: André Santos <andreluis.online@hotmail.com>
+Date:   Sat Mar 8 13:41:03 2014 -0300
+
+    Primeiro commit - Inserindo mini guia git
